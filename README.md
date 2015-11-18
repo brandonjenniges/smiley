@@ -1,2 +1,2 @@
 # smiley
-Smiley face animations using PaintCode and Swift.
+Smiley face animations using [PaintCode](http://www.paintcodeapp.com/)  and Swift.
